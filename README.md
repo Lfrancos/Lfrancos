@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lfrancos
+- 👋 Hi, I’m @lorenzo.francos
 - 👀 I’m interested in animation
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me lorfran14@htomail.com
